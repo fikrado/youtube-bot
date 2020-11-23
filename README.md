@@ -1,4 +1,8 @@
-# youtube-views
+[![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
+[![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
+
+# youtube-bot
+<img src="https://eteknix-eteknixltd.netdna-ssl.com/wp-content/uploads/2019/06/2-61-880x606.jpg" >
 
 **NOTE:** If you want to use Tor, be aware that YouTube can flag your video and delete the views after a while.
 
