@@ -66,3 +66,4 @@ $
 ```sh
 $ python3 bot.py --visits 2 --url https://www.youtube.com/watch?v=HAQQUDbuudY --verbose
 ```
+(https://img.shelds.io/badge/kali-black?style=for-the-badge&logo=kali)](https://fikrado.ml)
