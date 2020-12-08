@@ -66,5 +66,5 @@ $
 ```sh
 $ python3 bot.py --visits 2 --url https://www.youtube.com/watch?v=HAQQUDbuudY --verbose
 ```
-[![Messenger](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://youtube.com/c/FikradoHacker)
+[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://youtube.com/c/FikradoHacker)
 
