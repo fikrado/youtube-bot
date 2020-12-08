@@ -66,4 +66,5 @@ $
 ```sh
 $ python3 bot.py --visits 2 --url https://www.youtube.com/watch?v=HAQQUDbuudY --verbose
 ```
-[!kali](https://img.shelds.io/badge/kali-black?style=for-the-badge&logo=kali)](https://fikrado.ml)
+[![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=kali)](https://t.me/fikrado_hacker)
+
